@@ -4,6 +4,8 @@
 Este projeto é um site institucional desenvolvido para o Hospital das Clínicas, com o objetivo de apresentar informações relevantes aos pacientes, visitantes e colaboradores de forma clara, acessível e moderna.
 
 🎯 Objetivo do Projeto
+--
+
 Desenvolver um site simples e funcional para o Hospital das Clínicas, proporcionando:
 Informações sobre serviços prestados
 Contatos e localização
@@ -20,8 +22,9 @@ TailwindCSS – Estilização rápida e responsiva com classes utilitárias
 React Router DOM – Navegação entre páginas com rotas estáticas e dinâmicas
 Hooks do React – useState, useEffect, useParams, useNavigate, Props
 
---
+
 👨‍💻 Integrantes
+--
 Phillipo Barbosa
 Henrique Rodrigues
 🔗 Repositório no GitHub
